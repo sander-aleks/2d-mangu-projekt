@@ -1,7 +1,6 @@
 # 2d-mängu-grupp
 
-
-- Tiimiliimed
+# Tiimiliikmed
 - Sander-Aleks Mander
 - Evert Kärp
 - Gendro Umber
